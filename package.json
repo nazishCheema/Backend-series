@@ -1,0 +1,14 @@
+{
+  "name": "backendseries",
+  "version": "1.0.0",
+  "description": "a backend series",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "Nazish",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
